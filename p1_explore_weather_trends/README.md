@@ -16,6 +16,7 @@
 
 2. How did you calculate the moving average?
 
+    Filled missing values with median.  
     Using `=average(cell2:cell8)` for 7-day average and `=average(cell2:cell12)` for 10-day average and dragging the last value.
 
 3. What were your key considerations when deciding how to visualize the trends?
