@@ -1,3 +1,4 @@
+***Update:** Please check [udacity-nanodegree-projects](https://github.com/kHarshit/udacity-nanodegree-projects) repository!*
 # udacity-dand-projects
 
 This repository contains the projects of the Udacity's [Data Analyst nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
